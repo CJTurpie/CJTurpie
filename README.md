@@ -1,6 +1,6 @@
 # Hi I'm Carl Turpie
 
-Senior Software Developer at [Flair](https://flairimpact.com/).
+Senior Software Developer at [FLAIR](https://flairimpact.com/).
 
 ## Technologies and tools I use or have used
 
