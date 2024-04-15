@@ -1,6 +1,6 @@
 # Hi I'm Carl Turpie
 
-Senior Software Developer at [Centre for Energy Equality](https://cee-uk.com/).
+Senior Software Engineer at [Centre for Energy Equality](https://cee-uk.com/).
 
 ## Technologies and tools I use or have used
 
