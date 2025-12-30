@@ -1,6 +1,6 @@
 # Hi I'm Carl Turpie
 
-Lead Software Engineer at [good with](https://goodwith.co/).
+Lead Software Engineer at [Good With](https://goodwith.co/).
 
 ## Technologies and tools I use or have used
 
