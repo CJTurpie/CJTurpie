@@ -16,7 +16,7 @@ Lead Software Engineer at [Good With](https://goodwith.co/).
 
 ## Front-end tools/frameworks
 
-<a href='https://react.dev/'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a?
+<a href='https://react.dev/'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>
 <a href="https://svelte.dev/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/> </a>
 <a href="https://angular.io/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> </a>
 <a href='https://expo.dev/'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" alt="Expo" width="40" height="40"/> </a>
