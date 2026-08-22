@@ -1,6 +1,6 @@
 # Hi I'm Carl Turpie
 
-Lead Software Engineer at [Good With](https://goodwith.co/).
+Staff Software Engineer at [PlannerPal](https://www.plannerpal.co.uk/).
 
 ## Languages
 
